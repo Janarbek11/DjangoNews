@@ -1,4 +1,6 @@
-#!/home/tenthent/DjnagoNews/venv/bin/python3
+#!/bin/sh
+'''exec' "/home/janarbek/Рабочий стол/python/aza/DjangoNews/venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
